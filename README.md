@@ -1,7 +1,7 @@
 
-### C#/C++ software engineer based in the Hague, the Netherlands.
+### Software engineer based in the Hague, the Netherlands.
 
-I’ve got a degree in software engineering with a specialization in game engineering from Saxion University of Applied Sciences. 
+I have a degree in software engineering with a specialization in game engineering.
 
 A problem-solver by nature, I have an eye for solving problems and finding original solutions. Very passionate about ideas and projects, constantly working on something fun in my free time, you can check out my projects here. You can also read about my experience in detail in my [CV](https://www.nikitabm.xyz/s/CV-2022-MB.pdf).
 
