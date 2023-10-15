@@ -1,5 +1,5 @@
 
-### Software engineer based in the Hague, the Netherlands.
+### Software engineer based in the Netherlands.
 
 I have a degree in software engineering with a specialization in game engineering.
 
